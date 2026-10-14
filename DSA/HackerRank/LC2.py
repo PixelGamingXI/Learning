@@ -1,0 +1,10 @@
+
+if __name__ == '__main__':
+    numbers = [
+        [1, -2, 3],
+        [4, 5, 0],
+        [-7, 8, 9]
+    ]
+
+    my_list = []
+    print(my_list)
